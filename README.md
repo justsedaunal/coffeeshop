@@ -7,4 +7,3 @@ https://user-images.githubusercontent.com/83344740/144886802-71d59d21-678e-4520-
 
 
 
-[![Watch the video](https://images/coffee-shop-webpage.png)](https://user-images.githubusercontent.com/83344740/144886802-71d59d21-678e-4520-b0fe-92c1b65cba5c.mp4)
